@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./breviariumcarca02diocgoog_0812.png"; bbox 0 0 3084 4292; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 534 310 1238 2008">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 534 310 1238 2008">
+     <span class='ocr_line' id='line_1_1' title="bbox 534 310 1238 2008; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 534 310 1238 2008; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1606 346 2551 416">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1606 346 2551 416">
+     <span class='ocr_line' id='line_1_2' title="bbox 1606 346 2551 416; baseline 0.005 -5"><span class='ocrx_word' id='word_1_2' title='bbox 1606 346 1826 414; x_wconf 75' lang='lat' dir='ltr'>Di-xit</span> <span class='ocrx_word' id='word_1_3' title='bbox 1941 351 2160 415; x_wconf 83' lang='lat' dir='ltr'>Domi-</span> <span class='ocrx_word' id='word_1_4' title='bbox 2179 370 2293 414; x_wconf 79' lang='lat' dir='ltr'>nus</span> <span class='ocrx_word' id='word_1_5' title='bbox 2372 350 2551 416; x_wconf 79' lang='lat' dir='ltr'>Don</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2110 609 2444 626">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2110 609 2444 626">
+     <span class='ocr_line' id='line_1_3' title="bbox 2110 609 2444 626; baseline 0 3666"><span class='ocrx_word' id='word_1_6' title='bbox 2110 609 2444 626; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1534 920 1817 942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1534 920 1817 942">
+     <span class='ocr_line' id='line_1_4' title="bbox 1534 920 1817 942; baseline 0 3350"><span class='ocrx_word' id='word_1_7' title='bbox 1534 920 1817 942; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
